@@ -1,0 +1,8 @@
+.center {
+  text-align: center;
+}
+
+.btn-primary, .crime-button {
+  min-width: 120px;
+  background-color: transparent;
+}
